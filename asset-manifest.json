@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-burger/static/css/main.d8c8b6fd.css",
+    "main.js": "/react-burger/static/js/main.9ee6518c.js",
+    "static/js/787.635aedaa.chunk.js": "/react-burger/static/js/787.635aedaa.chunk.js",
+    "static/media/burder3.png": "/react-burger/static/media/burder3.37f7d6b58906631f012c.png",
+    "static/media/burger2.png": "/react-burger/static/media/burger2.2f4d0e11721b670e583a.png",
+    "static/media/burger1.png": "/react-burger/static/media/burger1.10677bc095201b775608.png",
+    "static/media/cheese.jpg": "/react-burger/static/media/cheese.870fa79b7ed94d198ab5.jpg",
+    "static/media/menucheese.jpg": "/react-burger/static/media/menucheese.da86f3e5506b98c1bab3.jpg",
+    "static/media/pic4.jpg": "/react-burger/static/media/pic4.3401661608ac7ddee4f2.jpg",
+    "static/media/burgerLady.jpg": "/react-burger/static/media/burgerLady.c20915b71a7686e36fb0.jpg",
+    "static/media/pic5.jpg": "/react-burger/static/media/pic5.ef1eeab8910e3a93d1b7.jpg",
+    "static/media/cheesemenu.jpg": "/react-burger/static/media/cheesemenu.9d0255a2dad8c7ef744c.jpg",
+    "static/media/pic2.jpg": "/react-burger/static/media/pic2.5a3c3ab686d864c8fb09.jpg",
+    "static/media/carts.png": "/react-burger/static/media/carts.383a0ed3e89d6c3c6ee9.png",
+    "index.html": "/react-burger/index.html",
+    "main.d8c8b6fd.css.map": "/react-burger/static/css/main.d8c8b6fd.css.map",
+    "main.9ee6518c.js.map": "/react-burger/static/js/main.9ee6518c.js.map",
+    "787.635aedaa.chunk.js.map": "/react-burger/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c8b6fd.css",
+    "static/js/main.9ee6518c.js"
+  ]
+}
