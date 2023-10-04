@@ -22,7 +22,10 @@ const router = createBrowserRouter(
 );
 export default function App() {
   return (
-    <body>
+    <body
+      basename="/react-burger
+    "
+    >
       <RouterProvider router={router} />
     </body>
   );
